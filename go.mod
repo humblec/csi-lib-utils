@@ -19,6 +19,7 @@ require (
 	k8s.io/client-go v1.18.0
 	k8s.io/component-base v0.18.0
 	k8s.io/klog v1.0.0
+	k8s.io/klog/v2 v2.0.0
 )
 
 replace k8s.io/api => k8s.io/api v0.18.0
